@@ -1,0 +1,407 @@
+[
+  {
+    "id": "e1880fe626bf4bab898f23a3b77d676b",
+    "url": "https://www.101cookbooks.com/gnocchi-recipe/#recipe",
+    "error": null
+  },
+  {
+    "id": "e2adbbe467b44b57b5acea3f84ac3d41",
+    "url": "https://40aprons.com/vegan-pad-thai/",
+    "error": "recipe-scrapers exception: Website (The website '40aprons.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "37beebb368a541428ae441ff8cbefd3c",
+    "url": "https://abeautifulmess.com/fajitas/",
+    "error": "recipe-scrapers exception: Website (The website 'abeautifulmess.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "9cce45a1464c46fa89955b76cc2ee6e4",
+    "url": "https://aberlehome.com/tahini-quinoa-bowl/",
+    "error": null
+  },
+  {
+    "id": "a08400d8bcc143d18bdd4c656f2972f1",
+    "url": "https://www.allrecipes.com/recipe/238130/mancakes/",
+    "error": null
+  },
+  {
+    "id": "bb80cffe03a74c72a5a5d66f09aaceef",
+    "url": "https://www.ambitiouskitchen.com/berry-cobbler/",
+    "error": null
+  },
+  {
+    "id": "151c0c09ad0d473c85bc5f7d903d6a36",
+    "url": "https://app.samsungfood.com/recipes/107ccfc54f1b637493fa8a85191b62e504bBAD",
+    "error": "recipe-scrapers exception: Website (The website 'app.samsungfood.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "a9a0a700b3e74170ad71e2d2276fc0de",
+    "url": "https://www.eatingwell.com/bang-bang-broccoli-salad-11712131",
+    "error": null
+  },
+  {
+    "id": "b51a4c1966484063912282fe54073f85",
+    "url": "https://www.familyfoodonthetable.com/curry-groundturkey-with-rice-and-peas/",
+    "error": null
+  },
+  {
+    "id": "8b6d5d060bb24a74b9afe7d3e7d6b70b",
+    "url": "https://izzycooking.com/chinese-cabbage/",
+    "error": null
+  },
+  {
+    "id": "e23052fdf2724226896a57d1dbd7c7a4",
+    "url": "https://mykitchen101en.com/homestyle-fried-mee-hoon-bihun-goreng-ala-rumah/",
+    "error": null
+  },
+  {
+    "id": "391636378e824753b0dd9ce504ceed96",
+    "url": "https://www.foodandwine.com/ham-and-cheese-croissant-casserole-11705092",
+    "error": null
+  },
+  {
+    "id": "e943eecc741b4a229fcffa047d7e6a29",
+    "url": "https://deliciouslysprinkled.com/air-fryer-stuffed-mushrooms-recipe/",
+    "error": "recipe-scrapers exception: Website (The website 'deliciouslysprinkled.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "fa230dd106314bd38f18058640fb913b",
+    "url": "https://hilahcooking.com/beckys-bloody-mary/",
+    "error": "recipe-scrapers exception: Website (The website 'hilahcooking.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "df47dd1444a2436aad580dd46c40f193",
+    "url": "https://erinscozykitchen.com/recipe/birria-tacos/",
+    "error": "recipe-scrapers exception: Website (The website 'erinscozykitchen.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "46a6087797234b81b04e53da55bff8a2",
+    "url": "https://bellyfull.net/boursin-mashed-potatoes/",
+    "error": "recipe-scrapers exception: Website (The website 'bellyfull.net' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "7b5309528e464907baaff8d1f6b40d49",
+    "url": "https://food52.com/recipes/83898-best-butternut-squash-soup-recipe",
+    "error": null
+  },
+  {
+    "id": "9cc5fe817717456198352bd80943d6bc",
+    "url": "https://www.justalittlebitofbacon.com/chilled-strawberry-yogurt-soup/",
+    "error": "recipe-scrapers exception: Website (The website 'justalittlebitofbacon.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "121681428dac4239afa45408a268f8f1",
+    "url": "https://cakemehometonight.com/chocolate-peanut-butter-cupcakes/",
+    "error": "recipe-scrapers exception: Website (The website 'cakemehometonight.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "d54f6b6797d6490cb7aae113769ff7c9",
+    "url": "https://www.carriesexperimentalkitchen.com/cornmeal-sage-drop-biscuits/",
+    "error": "recipe-scrapers exception: Website (The website 'carriesexperimentalkitchen.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "27b3c741fee74a13a5d3c3575f041c05",
+    "url": "https://www.cleaneatingkitchen.com/costco-chicken-salad-recipe/",
+    "error": "recipe-scrapers exception: Website (The website 'cleaneatingkitchen.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "56dcd9d91c92470daad56af7d27a8eb9",
+    "url": "https://kellyscleankitchen.com/2025/11/06/cottage-pie/",
+    "error": "recipe-scrapers exception: Website (The website 'kellyscleankitchen.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "aa7fcf2ee9cf4e57b7f810507e759013",
+    "url": "https://beyondfrosting.com/cranberry-orange-muffins/",
+    "error": "recipe-scrapers exception: Website (The website 'beyondfrosting.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "56b5c075b0f54805b1a72ecd885f8ffa",
+    "url": "https://chefjackovens.com/creamy-chicken-risoni-orzo/",
+    "error": "recipe-scrapers exception: Website (The website 'chefjackovens.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "4eaf77abfb1d4750b585f103085411be",
+    "url": "https://www.aldi.com.au/recipes/starters-sides-salad-recipes/creamy-potato-salad-with-crispy-bacon",
+    "error": null
+  },
+  {
+    "id": "f49e32984f9f40e5a3d0ff0e557dff29",
+    "url": "https://iowagirleats.com/crock-pot-italian-beef-sandwiches/",
+    "error": "recipe-scrapers exception: Website (The website 'iowagirleats.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "0e912f6a48534ff9ab633ee6af92b228",
+    "url": "https://bakewithzoha.com/crumbl-churro-dulce-de-leche-cookies/",
+    "error": "recipe-scrapers exception: Website (The website 'bakewithzoha.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "64b02104d5ef4753917407904cb826b2",
+    "url": "https://amberskitchencooks.com/crusty-dutch-oven-sourdough-bread/",
+    "error": "recipe-scrapers exception: Website (The website 'amberskitchencooks.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "ff9262e1babf44fe9f18b8c7dd299f6c",
+    "url": "https://goodstuff.recipes/cucumber-salad-sunomono/",
+    "error": "recipe-scrapers exception: Website (The website 'goodstuff.recipes' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "0ac599a5fd4a481cbb0458762c8e02d5",
+    "url": "https://betterfoodguru.com/desi-vegan-nachos/",
+    "error": "recipe-scrapers exception: Website (The website 'betterfoodguru.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "a22639873e0a48c585043303424f1eea",
+    "url": "https://justinesnacks.com/dutch-oven-mushroom-stuffing/",
+    "error": "recipe-scrapers exception: Website (The website 'justinesnacks.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "bcd595bc670846d2af22705720bbd940",
+    "url": "https://www.chewoutloud.com/easy-perfect-mahi-mahi-recipe/",
+    "error": "recipe-scrapers exception: Website (The website 'chewoutloud.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "a4b70424049c4016b0428b484ccfd76c",
+    "url": "https://www.inspiredtaste.net/96192/beef-ribs-recipe/",
+    "error": "recipe-scrapers exception: Website (The website 'inspiredtaste.net' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "0049a73fe86d494c9679b22701b2ab84",
+    "url": "https://www.billyparisi.com/garlic-broccolini-recipe/",
+    "error": "recipe-scrapers exception: Website (The website 'billyparisi.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "8e42c441124b47c08a31f6be5efbcab1",
+    "url": "https://www.cookedandloved.com/recipes/green-beans-almondine/",
+    "error": "recipe-scrapers exception: Website (The website 'cookedandloved.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "58286bf265194c5abadcbd50e827fde2",
+    "url": "https://www.gourmettraveller.com.au/recipe/browse-all/grilled-prawns-with-dipping-sauce-poster-prawns/",
+    "error": null
+  },
+  {
+    "id": "0fd5bedbf45d4f658a0fac3914dc8a9f",
+    "url": "https://ameessavorydish.com/ground-beef-breakfast-casserole/",
+    "error": "recipe-scrapers exception: Website (The website 'ameessavorydish.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "c3c893aa7a5841e88d6f2f119db21dc5",
+    "url": "https://hungryhappens.net/ground-beef-zucchini-bake-low-carb/",
+    "error": "recipe-scrapers exception: Website (The website 'hungryhappens.net' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "6b05d91f44b649ffb23e57189608aa25",
+    "url": "https://www.asweetpeachef.com/healthy-carrot-cake-recipe/",
+    "error": "recipe-scrapers exception: Website (The website 'asweetpeachef.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "0db1366e460a40849f337fb266af59ab",
+    "url": "https://drizzleanddip.com/2025/11/04/the-best-easy-honey-coffee-ice-cream-recipe/",
+    "error": "recipe-scrapers exception: Website (The website 'drizzleanddip.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "48d1bdc85fe2419e928a2a2aa216a0c2",
+    "url": "https://ninjatestkitchen.eu/recipe/jacket-potato-bar/",
+    "error": "recipe-scrapers exception: Website (The website 'ninjatestkitchen.eu' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "fc8571b8e3354fcd9fb4e399d7b6d75b",
+    "url": "https://www.americastestkitchen.com/recipes/11934-lamb-ragu-with-pappardelle",
+    "error": null
+  },
+  {
+    "id": "8a550dea064645fcb1eb088ef7135816",
+    "url": "https://www.erinliveswhole.com/lemon-parmesan-sheet-pan-gnocchi/",
+    "error": "recipe-scrapers exception: Website (The website 'erinliveswhole.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "2ffdf3e935c04093a11f0afb98f22235",
+    "url": "https://www.bestrecipes.com.au/recipes/macaroni-mince-recipe/2mi22t1v?r=budget/fs7mf4yz&h=budget",
+    "error": null
+  },
+  {
+    "id": "f9d56497ae2146ef85efd7fc31aad7ce",
+    "url": "https://www.chefnini.com/maison-dhalloween/",
+    "error": null
+  },
+  {
+    "id": "cb61b61940c64da69d89c0420341b391",
+    "url": "https://www.foodbymaria.com/greek-bowls/",
+    "error": "recipe-scrapers exception: Website (The website 'foodbymaria.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "1ce6b7e703504cc4a42ccd707cd430f9",
+    "url": "https://www.ahealthysliceoflife.com/millet-porridge-recipe-a-delicious-wholesome-breakfast/",
+    "error": "recipe-scrapers exception: Website (The website 'ahealthysliceoflife.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "ad804423f9e445eb88cce62726444310",
+    "url": "https://www.afarmgirlsdabbles.com/apple-cider-vinaigrette/",
+    "error": "recipe-scrapers exception: Website (The website 'afarmgirlsdabbles.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "5077105eae0547f98e96db6905e88977",
+    "url": "https://bitsofcarey.com/parmesan-polenta-almond-crumbed-chicken/",
+    "error": "recipe-scrapers exception: Website (The website 'bitsofcarey.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "048b062c39034bfa904bd184ece9d237",
+    "url": "https://www.eatingwell.com/parsley-butter-melting-potatoes-11820510",
+    "error": null
+  },
+  {
+    "id": "0e14e11ae5a2423a84029f7359c153fd",
+    "url": "https://www.corriecooks.com/carbonara/",
+    "error": "recipe-scrapers exception: Website (The website 'corriecooks.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "3eb84253b15f44a0a5ecf75c77ed66e1",
+    "url": "https://aubreyskitchen.com/pistachio-maple-dijon-crusted-salmon/",
+    "error": "recipe-scrapers exception: Website (The website 'aubreyskitchen.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "29ca394375f34059ba149f60e0b1a9a5",
+    "url": "https://www.alisoneroman.com/recipes/pork-chop-capers-caramelized-cabbage/",
+    "error": "recipe-scrapers exception: Website (The website 'alisoneroman.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "da2ab9481e184599b6d4abfe948cbb3a",
+    "url": "https://www.gonnawantseconds.com/tag/pumpkin/",
+    "error": null
+  },
+  {
+    "id": "bec7ad14ef5b484d8b999137b6bdbd71",
+    "url": "https://alltommat.expressen.se/recept/biff-stroganoff-klassiskt-recept/",
+    "error": "recipe-scrapers exception: Website (The website 'alltommat.expressen.se' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "01d17fc58fd2453891ba953fe8841e77",
+    "url": "https://www.atelierdeschefs.fr/recettes/30568/veloute-de-brocoli-au-cheddar-tuiles-de-cheddar/",
+    "error": null
+  },
+  {
+    "id": "9829f44b639249cb9b1af5312e471fdf",
+    "url": "https://cookiesandcups.com/dont-hate-me-because-im-butter-ful/",
+    "error": "recipe-scrapers exception: Website (The website 'cookiesandcups.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "7c7d6ba6df364757a1cf80315d00e805",
+    "url": "https://amazingoriental.com/recept/sambal-belacan-broccoli-met-kip/",
+    "error": "recipe-scrapers exception: Website (The website 'amazingoriental.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "7aa2447b04794b948836275adcdb778c",
+    "url": "https://app.samsungfood.com/recipes/107ccfc54f1b637493fa8a85191b62e504b",
+    "error": "recipe-scrapers exception: Website (The website 'app.samsungfood.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "c5a8431edd8744b48899752592e67d96",
+    "url": "https://www.everyday-delicious.com/schinkennudeln/",
+    "error": "recipe-scrapers exception: Website (The website 'everyday-delicious.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "6d48284bec2c4629a0d66822cb0a910c",
+    "url": "https://eggs.ca/recipes/seasonal-protein-bowl/",
+    "error": "recipe-scrapers exception: Website (The website 'eggs.ca' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "2d5a085a43644309bd729cdd80698569",
+    "url": "https://adozensundays.com/snickerdoodle-cookie-bars/",
+    "error": "recipe-scrapers exception: Website (The website 'adozensundays.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "218c9bee5c48436bb0f7918f51ae0765",
+    "url": "https://www.cookwell.com/recipe/spicy-thai-meatballs",
+    "error": "recipe-scrapers exception: Website (The website 'cookwell.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "ac578b73cebb45438759c6d8b29ee942",
+    "url": "https://www.adrianasbestrecipes.com/squash-blossom-quesadillas-recipe/",
+    "error": "recipe-scrapers exception: Website (The website 'adrianasbestrecipes.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "c935177d5f764488b2fa907dd9183b3d",
+    "url": "https://healthywithachanceofsprinkles.com/sriracha-aioli-made-with-greek-yogurt/",
+    "error": "recipe-scrapers exception: Website (The website 'healthywithachanceofsprinkles.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "68e0bfbfadc2451dbe74469e5884d4ee",
+    "url": "https://eatwhattonight.com/2022/06/steamed-tofu-with-century-egg-and-meat-floss/",
+    "error": null
+  },
+  {
+    "id": "16d6d0fc678e496b90696489cb77b4b8",
+    "url": "https://www.allrecipes.com/recipe/8177/sweet-potato-cheesecake/",
+    "error": null
+  },
+  {
+    "id": "0ec11996f93a4b47b22ff6d9e11c65ac",
+    "url": "https://belleofthekitchen.com/air-fryer-buffalo-wings/",
+    "error": "recipe-scrapers exception: Website (The website 'belleofthekitchen.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "ecf5bd46a37349568f3257b424c89cd5",
+    "url": "https://bakerbynature.com/flaky-golden-brown-buttermilk-biscuits/",
+    "error": "recipe-scrapers exception: Website (The website 'bakerbynature.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "1efd789b03234cbf8b60d2f1681be2fe",
+    "url": "https://barefootinthepines.com/thanksgiving-sandwich-recipe/",
+    "error": "recipe-scrapers exception: Website (The website 'barefootinthepines.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "ca4b199f45e24c8285b27222976d7e57",
+    "url": "https://kitchendivas.com/three-wise-men-shot/",
+    "error": "recipe-scrapers exception: Website (The website 'kitchendivas.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "b0a7431a54b24a65868294d6e5abd66f",
+    "url": "https://www.blueapron.com/recipes/truffle-honey-white-pizza?cycle_date=2025-11-10&product_id=f62efdea-f4e8-4b74-a084-5ad1bc204d1d&product_servings=&item_id=d24c40e6-14ee-4779-8eb2-8cd04879be8f",
+    "error": null
+  },
+  {
+    "id": "4552776885a34f2e8fa1a82ada8bce10",
+    "url": "https://chefjeanpierre.com/thanksgiving-recipes/turkey-recipes/maple-roasted-turkey/",
+    "error": "recipe-scrapers exception: Website (The website 'chefjeanpierre.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "42422a70fe034fdda80b89d93d99df86",
+    "url": "https://www.foodandwine.com/recipes/cucumber-margarita",
+    "error": null
+  },
+  {
+    "id": "97fe828cb71846cba144116584a6d29e",
+    "url": "https://everydaypie.com/healthy-apple-crisp/",
+    "error": "recipe-scrapers exception: Website (The website 'everydaypie.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "89402a405d1541b0b7bddf52be838d60",
+    "url": "https://dinnerthendessert.com/peppermint-bark-biscotti/",
+    "error": null
+  },
+  {
+    "id": "3c3cc3c6f6b441159f1c076e63924f72",
+    "url": "https://juliegoodwin.com.au/recipe/zucchini-slice/",
+    "error": "unsupported operand type(s) for +=: 'NoneType' and 'NoneType'"
+  },
+  {
+    "id": "952974d45be34384bbc405b85b752d32",
+    "url": "https://www.ah.be/allerhande/recept/R-R1195710/zuurkoolstamppot-met-spekjes-appel-en-walnoot",
+    "error": "recipe-scrapers exception: Website (The website 'ah.be' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  },
+  {
+    "id": "9863e427aab243138646de7776ccb54a",
+    "url": "https://www.argiro.gr/recipe/makaronia-me-manitaria/",
+    "error": null
+  },
+  {
+    "id": "791106e646bc46c183511de91769128c",
+    "url": "https://akispetretzikis.com/recipe/8588/choirino-me-revithia-sth-chytra-tachythtas",
+    "error": "'NoneType' object has no attribute 'get_text'"
+  },
+  {
+    "id": "13fe4d246ea94178916569344ed74ad1",
+    "url": "https://kfoods.com/recipes/green-masala-paya_urid42786",
+    "error": "recipe-scrapers exception: Website (The website 'kfoods.com' isn't currently supported by recipe-scrapers!\n---\nIf you have time to help us out, please report this as a feature \nrequest on our bugtracker.) not supported."
+  }
+]
